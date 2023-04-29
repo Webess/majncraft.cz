@@ -17,7 +17,6 @@ In February 2022, there was a problem with the old site, so we used this webdesi
 * [DONE] voting for the server on third-party sites
 
 ## Creator
-* [Twitter @tomasliska](https://twitter.com/tomasliska)
 * [GitHub @Webess](https://github.com/webess)
-* [LinkeIn @tomliska](https://www.linkedin.com/in/tomliska/)
+* [LinkedIn @tomliska](https://www.linkedin.com/in/tomliska/)
 * [Website](https://liska.dev)
